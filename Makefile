@@ -1,5 +1,5 @@
 dev:
-	hugo server -D --disableFastRender
+	hugo server --bind 0.0.0.0 -D --disableFastRender
 
 pub:
 	hugo -d docs
