@@ -1,0 +1,5 @@
+baseURL = 'https://beim.github.io/'
+languageCode = 'en-us'
+title = 'beim.github.io'
+theme = "ananke"
+
