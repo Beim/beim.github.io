@@ -6,7 +6,23 @@
     <description>Recent content on beim.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Oct 2023 07:16:59 +1300</lastBuildDate><atom:link href="https://beim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Oct 2023 12:15:39 +1300</lastBuildDate><atom:link href="https://beim.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nz Car Stats</title>
+      <link>https://beim.github.io/posts/nz-car-stats/</link>
+      <pubDate>Mon, 23 Oct 2023 12:15:39 +1300</pubDate>
+      
+      <guid>https://beim.github.io/posts/nz-car-stats/</guid>
+      <description>Summary Filters:
+Year: &amp;gt;= 2017 Price: 15k - 40k Odometer: &amp;lt;= 60,000 km Transmission: Automatic Popular models
+Prices of selected models
+Popular dealers
+Swift dealers
+Code Prerequisite:
+A web browser (Firefox, Chrome, Edge etc.) Python3 PowerBI Steps:
+Set up your filter on trademe Use web.py to get links of car detail pages Use api.py to get car details and save as JSON files Use summary.py to summarize the details into one JSON file Load the JSON file into PowerBI </description>
+    </item>
+    
     <item>
       <title>My First Post</title>
       <link>https://beim.github.io/posts/my-first-post/</link>
