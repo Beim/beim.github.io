@@ -1,7 +1,7 @@
 +++
 title = 'First_home'
 date = 2025-07-20T22:12:00+12:00
-draft = true
+draft = false
 +++
 
 # New Zealand Property Guide: Property Types and Ownership
