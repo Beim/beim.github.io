@@ -8,6 +8,16 @@ draft = false
 
 This guide explains the different types of property in New Zealand and the legal ways you can own them.
 
+## Table of Contents
+
+1. [Common Property Types in New Zealand](#part-1-common-property-types-in-new-zealand)
+2. [Main Types of Property Ownership in New Zealand](#part-2-main-types-of-property-ownership-in-new-zealand)
+3. [Relationships Between Property Types and Ownership](#part-3-relationships-between-property-types-and-ownership)
+4. [Common Cladding Types in New Zealand](#part-4-common-cladding-types-in-new-zealand)
+5. [Common Roofing Materials in New Zealand](#part-5-common-roofing-materials-in-new-zealand)
+6. [Common Joinery Types in New Zealand](#part-6-common-joinery-types-in-new-zealand)
+7. [Common Areas Prone to Moisture Ingress in New Zealand Homes](#part-7-common-areas-prone-to-moisture-ingress-in-new-zealand-homes)
+
 ---
 
 ### Part 1: Common Property Types in New Zealand
@@ -321,3 +331,202 @@ The type of building often dictates the most suitable legal ownership structure.
 - Building code compliance varies by region and building type
 - Professional installation crucial for warranty and performance
 - Consider long-term maintenance costs, not just initial price
+
+---
+
+### Part 6: Common Joinery Types in New Zealand
+
+**Joinery** refers to the windows and doors in a building, including their frames, glazing, and hardware systems.
+
+#### Main Joinery Types with Pros and Cons
+
+*   **Aluminum Joinery:**
+    The most popular choice in New Zealand, available in powder-coated finishes and various profiles.
+    
+    **Pros:**
+    - Low maintenance and corrosion resistant
+    - Long lifespan (30+ years)
+    - Slim profiles allowing more glass area
+    - Good structural strength for large openings
+    - Cost-effective option
+    - Suitable for sliding doors and large windows
+    
+    **Cons:**
+    - Poor thermal performance (conducts heat/cold)
+    - Prone to failure at mitred corners
+    - Can develop condensation issues
+    - Limited thermal efficiency without thermal breaks
+    - May require regular seal maintenance
+
+*   **Timber Joinery:**
+    Traditional choice popular in heritage homes and character properties.
+    
+    **Pros:**
+    - Excellent natural thermal insulation properties
+    - Attractive aesthetic appeal and warmth
+    - Can be painted or stained any color
+    - Repairable and fully customizable
+    - Suits heritage and character properties
+    - Good acoustic properties
+    
+    **Cons:**
+    - High maintenance requirements (regular painting/staining)
+    - Susceptible to rot, warping, and weather damage
+    - More expensive than aluminum initially
+    - Ongoing maintenance costs
+    - Requires quality timber and expert installation
+
+*   **uPVC (Vinyl) Joinery:**
+    Growing in popularity, especially for energy-efficient homes.
+    
+    **Pros:**
+    - Excellent thermal performance and insulation
+    - Very low maintenance requirements
+    - Good value for money
+    - Available in various colors and wood-grain finishes
+    - Won't rot, rust, or corrode
+    - Good acoustic properties
+    
+    **Cons:**
+    - Can appear less premium than other materials
+    - Limited repair options if damaged
+    - Thermal expansion can cause operational issues
+    - Not suitable for very large window openings
+    - Color options more limited than timber
+
+*   **Thermally Broken Aluminum:**
+    Premium aluminum option with improved thermal performance.
+    
+    **Pros:**
+    - Much better thermal performance than standard aluminum
+    - Maintains aluminum's structural strength and durability
+    - Suitable for high-performance and passive house builds
+    - Long lifespan with minimal maintenance
+    - Available in wide range of colors and finishes
+    
+    **Cons:**
+    - Significantly more expensive than standard aluminum
+    - Still not as thermally efficient as timber or uPVC
+    - More complex manufacturing and installation
+    - Higher upfront investment required
+
+*   **Steel Joinery:**
+    Less common, mainly used for specific architectural styles or industrial applications.
+    
+    **Pros:**
+    - Extremely strong and durable
+    - Very slim profiles possible
+    - Distinctive industrial aesthetic
+    - Long lifespan when properly maintained
+    - Good for large commercial-style windows
+    
+    **Cons:**
+    - Poor thermal performance
+    - Requires regular maintenance to prevent rust
+    - Limited availability and higher costs
+    - Heavy weight requires robust structural support
+    - Condensation issues without thermal breaks
+
+#### Important Considerations
+
+- Aluminum dominates the New Zealand market due to cost-effectiveness and durability
+- Thermal performance is increasingly important for building code compliance
+- Double glazing is now standard in most new construction
+- Consider both initial cost and long-term maintenance requirements
+- Coastal locations require enhanced corrosion resistance
+- Earthquake resilience is important in New Zealand's seismic environment
+- Professional installation crucial for performance and warranty compliance
+
+---
+
+### Part 7: Common Areas Prone to Moisture Ingress in New Zealand Homes
+
+**Moisture ingress** is one of the most serious issues affecting New Zealand homes, potentially causing structural damage, health problems, and significant repair costs. Understanding vulnerable areas helps with maintenance planning and early detection.
+
+#### High-Risk Areas and Why They're Vulnerable
+
+*   **Direct-Fix Cladding Systems:**
+    Cladding attached directly to framing without a drained and vented cavity.
+    
+    **Why prone to moisture ingress:**
+    - No cavity to drain water that penetrates the outer cladding layer
+    - Water relies entirely on the outer cladding seal for protection
+    - Any crack or seal failure allows direct water contact with framing
+    - Limited ability for trapped moisture to escape and dry out
+    
+    **Prevention:**
+    - Regular inspection and maintenance of cladding seals
+    - Immediate repair of any cracks or gaps
+    - Ensure paint finishes remain in good condition
+    - Monitor for signs of moisture damage internally
+
+*   **Cantilever Decks and Balconies:**
+    Decks that extend beyond the building structure without ground support.
+    
+    **Why prone to moisture ingress:**
+    - Complex junction where deck structure penetrates through cladding
+    - Difficult to achieve perfect waterproof seal at penetration points
+    - Movement between deck and building can compromise seals
+    - Water can pool around fixings and penetration points
+    - Limited access for maintenance and inspection
+    
+    **Prevention:**
+    - Regular inspection of flashing and sealants around deck junctions
+    - Ensure proper drainage away from building connections
+    - Monitor for any movement or cracking at junction points
+    - Professional assessment if any moisture signs appear
+
+*   **Roof-to-Cladding Junctions:**
+    Areas where the roof meets exterior walls, especially without proper flashing.
+    
+    **Why prone to moisture ingress:**
+    - Missing or inadequate "kick out" flashing fails to direct water away
+    - Complex geometry creates water collection points
+    - Different materials expanding/contracting at different rates
+    - Difficult access for regular maintenance and inspection
+    
+    **Prevention:**
+    - Ensure proper kick out flashing installation
+    - Regular gutter cleaning and maintenance
+    - Check that roof water is directed well away from cladding
+    - Address any roof lifting or damage promptly
+
+*   **Joinery Seal Failures:**
+    Windows and doors, particularly at corners and sill areas.
+    
+    **Why prone to moisture ingress:**
+    - Mitred corners in aluminum joinery are structurally weak points
+    - Sealants deteriorate over time due to UV and temperature cycling
+    - Building movement can stress sealed joints
+    - Poor drainage design can cause water accumulation
+    - Inadequate or missing weep holes prevent drainage
+    
+    **Prevention:**
+    - Regular inspection and resealing of window and door frames
+    - Ensure weep holes are clear and functioning
+    - Check that sill drainage is adequate
+    - Monitor for condensation issues that may indicate seal problems
+
+*   **Penetrations Through Cladding:**
+    Any service penetrations including pipes, vents, electrical, and fixtures.
+    
+    **Why prone to moisture ingress:**
+    - Cutting through cladding creates potential entry points
+    - Sealants around penetrations can fail over time
+    - Different materials expand at different rates causing gaps
+    - Often inadequate flashing or sealing during initial installation
+    
+    **Prevention:**
+    - Regular inspection of all penetration seals
+    - Ensure proper flashing is installed around larger penetrations
+    - Re-seal any deteriorated or failed sealants promptly
+    - Use appropriate sealants for each specific application
+
+#### Important Considerations
+
+- New Zealand's weather patterns create challenging conditions for building weathertightness
+- The "Leaky Homes" crisis highlighted the critical importance of proper moisture management
+- Early detection and maintenance is far more cost-effective than major remedial work
+- Regular professional inspections can identify issues before they become serious
+- Cavity-based cladding systems generally perform better than direct-fix systems
+- Proper building design and construction is the first line of defense against moisture ingress
